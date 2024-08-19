@@ -2,13 +2,6 @@
 "contacts": [
  { "id":1, "name": "aaron"},
  { "id":2, "name": "abas"},
- { "id":3, "name": "abbie"},
- { "id":4, "name": "abby"},
- { "id":5, "name": "abdul"},
- { "id":6, "name": "abel"},
- { "id":7, "name": "abelardo"},
- { "id":8, "name": "abelrai"},
- { "id":9, "name": "abigail"},
- { "id":10, "name": "abisara"}
+ { "id":3, "name": "abbie"}
 ]
 }
